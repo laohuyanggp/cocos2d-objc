@@ -1,6 +1,9 @@
 Cocos2D-ObjC
 ============
 
+# Want pure Swift? 
+We experiencing rewrite to Swift in [this repository](https://github.com/s1ddok/Fiber2D).
+
 **PLEASE READ BEFORE POSTING AN ISSUE!**  
 If in doubt, please post questions and comments in the forum  
 [The Official Forum][3]  
